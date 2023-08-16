@@ -1,0 +1,213 @@
+[22-Oct-2020 12:32:42 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/udyogniti/public_html/snehalniti.com/money/mail.php on line 18
+[22-Oct-2020 12:32:42 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/udyogniti/public_html/snehalniti.com/money/mail.php on line 18
+[22-Oct-2020 12:34:57 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/udyogniti/public_html/snehalniti.com/money/mail.php on line 18
+[22-Oct-2020 12:34:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/udyogniti/public_html/snehalniti.com/money/mail.php on line 18
+[22-Oct-2020 12:35:30 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 6
+[22-Oct-2020 12:35:30 UTC] PHP Warning:  mysql_query(): Access denied for user 'udyogniti'@'localhost' (using password: NO) in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 6
+[22-Oct-2020 12:35:30 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 6
+[22-Oct-2020 12:35:30 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 7
+[22-Oct-2020 12:35:30 UTC] PHP Warning:  mysql_query(): Access denied for user 'udyogniti'@'localhost' (using password: NO) in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 7
+[22-Oct-2020 12:35:30 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 7
+[22-Oct-2020 12:35:30 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 8
+[22-Oct-2020 12:35:30 UTC] PHP Warning:  mysql_query(): Access denied for user 'udyogniti'@'localhost' (using password: NO) in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 8
+[22-Oct-2020 12:35:30 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 8
+[22-Oct-2020 12:35:30 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 9
+[22-Oct-2020 12:35:30 UTC] PHP Warning:  mysql_query(): Access denied for user 'udyogniti'@'localhost' (using password: NO) in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 9
+[22-Oct-2020 12:35:30 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 9
+[22-Oct-2020 12:35:30 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 10
+[22-Oct-2020 12:35:30 UTC] PHP Warning:  mysql_query(): Access denied for user 'udyogniti'@'localhost' (using password: NO) in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 10
+[22-Oct-2020 12:35:30 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 10
+[22-Oct-2020 12:35:30 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 11
+[22-Oct-2020 12:35:30 UTC] PHP Warning:  mysql_query(): Access denied for user 'udyogniti'@'localhost' (using password: NO) in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 11
+[22-Oct-2020 12:35:30 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 11
+[22-Oct-2020 12:36:38 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 6
+[22-Oct-2020 12:36:38 UTC] PHP Warning:  mysql_query(): Access denied for user 'udyogniti'@'localhost' (using password: NO) in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 6
+[22-Oct-2020 12:36:38 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 6
+[22-Oct-2020 12:36:38 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 7
+[22-Oct-2020 12:36:38 UTC] PHP Warning:  mysql_query(): Access denied for user 'udyogniti'@'localhost' (using password: NO) in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 7
+[22-Oct-2020 12:36:38 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 7
+[22-Oct-2020 12:36:38 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 8
+[22-Oct-2020 12:36:38 UTC] PHP Warning:  mysql_query(): Access denied for user 'udyogniti'@'localhost' (using password: NO) in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 8
+[22-Oct-2020 12:36:38 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 8
+[22-Oct-2020 12:36:38 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 9
+[22-Oct-2020 12:36:38 UTC] PHP Warning:  mysql_query(): Access denied for user 'udyogniti'@'localhost' (using password: NO) in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 9
+[22-Oct-2020 12:36:38 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 9
+[22-Oct-2020 12:36:38 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 10
+[22-Oct-2020 12:36:38 UTC] PHP Warning:  mysql_query(): Access denied for user 'udyogniti'@'localhost' (using password: NO) in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 10
+[22-Oct-2020 12:36:38 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 10
+[22-Oct-2020 12:36:38 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 11
+[22-Oct-2020 12:36:38 UTC] PHP Warning:  mysql_query(): Access denied for user 'udyogniti'@'localhost' (using password: NO) in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 11
+[22-Oct-2020 12:36:38 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 11
+[22-Oct-2020 12:37:10 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 6
+[22-Oct-2020 12:37:10 UTC] PHP Warning:  mysql_query(): Access denied for user 'udyogniti'@'localhost' (using password: NO) in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 6
+[22-Oct-2020 12:37:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 6
+[22-Oct-2020 12:37:10 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 7
+[22-Oct-2020 12:37:10 UTC] PHP Warning:  mysql_query(): Access denied for user 'udyogniti'@'localhost' (using password: NO) in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 7
+[22-Oct-2020 12:37:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 7
+[22-Oct-2020 12:37:10 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 8
+[22-Oct-2020 12:37:10 UTC] PHP Warning:  mysql_query(): Access denied for user 'udyogniti'@'localhost' (using password: NO) in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 8
+[22-Oct-2020 12:37:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 8
+[22-Oct-2020 12:37:10 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 9
+[22-Oct-2020 12:37:10 UTC] PHP Warning:  mysql_query(): Access denied for user 'udyogniti'@'localhost' (using password: NO) in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 9
+[22-Oct-2020 12:37:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 9
+[22-Oct-2020 12:37:11 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 10
+[22-Oct-2020 12:37:11 UTC] PHP Warning:  mysql_query(): Access denied for user 'udyogniti'@'localhost' (using password: NO) in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 10
+[22-Oct-2020 12:37:11 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 10
+[22-Oct-2020 12:37:11 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 11
+[22-Oct-2020 12:37:11 UTC] PHP Warning:  mysql_query(): Access denied for user 'udyogniti'@'localhost' (using password: NO) in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 11
+[22-Oct-2020 12:37:11 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 11
+[22-Oct-2020 12:37:58 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 6
+[22-Oct-2020 12:37:58 UTC] PHP Warning:  mysql_query(): Access denied for user 'udyogniti'@'localhost' (using password: NO) in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 6
+[22-Oct-2020 12:37:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 6
+[22-Oct-2020 12:37:58 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 7
+[22-Oct-2020 12:37:58 UTC] PHP Warning:  mysql_query(): Access denied for user 'udyogniti'@'localhost' (using password: NO) in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 7
+[22-Oct-2020 12:37:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 7
+[22-Oct-2020 12:37:58 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 8
+[22-Oct-2020 12:37:58 UTC] PHP Warning:  mysql_query(): Access denied for user 'udyogniti'@'localhost' (using password: NO) in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 8
+[22-Oct-2020 12:37:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 8
+[22-Oct-2020 12:37:58 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 9
+[22-Oct-2020 12:37:58 UTC] PHP Warning:  mysql_query(): Access denied for user 'udyogniti'@'localhost' (using password: NO) in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 9
+[22-Oct-2020 12:37:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 9
+[22-Oct-2020 12:37:58 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 10
+[22-Oct-2020 12:37:58 UTC] PHP Warning:  mysql_query(): Access denied for user 'udyogniti'@'localhost' (using password: NO) in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 10
+[22-Oct-2020 12:37:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 10
+[22-Oct-2020 12:37:58 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 11
+[22-Oct-2020 12:37:58 UTC] PHP Warning:  mysql_query(): Access denied for user 'udyogniti'@'localhost' (using password: NO) in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 11
+[22-Oct-2020 12:37:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/udyogniti/public_html/snehalniti.com/money/conn.php on line 11
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:35:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Jan-2021 05:39:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/udyogniti/public_html/snehalniti.com/webinar/all_list.php on line 55
+[13-Mar-2021 11:09:41 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'snehalniti'@'localhost' (using password: YES) in /home/udyogniti/public_html/snehalniti.com/mm/webinar/conn.php on line 2
+[13-Mar-2021 11:09:41 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/udyogniti/public_html/snehalniti.com/mm/webinar/conn.php on line 3
+[13-Mar-2021 12:20:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'snehalniti'@'localhost' (using password: YES) in /home/udyogniti/public_html/snehalniti.com/mm/webinar/conn.php on line 2
+[13-Mar-2021 12:20:40 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/udyogniti/public_html/snehalniti.com/mm/webinar/conn.php on line 3
+[13-Mar-2021 13:12:46 UTC] PHP Parse error:  syntax error, unexpected '"','"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/udyogniti/public_html/snehalniti.com/mm/webinar/mail.php on line 37
+[13-Mar-2021 13:17:59 UTC] PHP Parse error:  syntax error, unexpected '"','"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/udyogniti/public_html/snehalniti.com/mm/webinar/mail.php on line 37
+[09-Oct-2022 02:35:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'snehalniti_new'@'localhost' (using password: YES) in /home/snehalnitimain/public_html/mm/webinar/conn.php on line 2
+[09-Oct-2022 02:35:36 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/snehalnitimain/public_html/mm/webinar/conn.php on line 3
+[10-Nov-2022 19:22:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'snehalniti_new'@'localhost' (using password: YES) in /home/snehalnitimain/public_html/mm/webinar/conn.php on line 2
+[10-Nov-2022 19:22:21 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/snehalnitimain/public_html/mm/webinar/conn.php on line 3
+[16-Jan-2023 08:54:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'snehalniti_new'@'localhost' (using password: YES) in /home/snehalnitimain/public_html/mm/webinar/conn.php on line 2
+[16-Jan-2023 08:54:41 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/snehalnitimain/public_html/mm/webinar/conn.php on line 3
+[08-Apr-2023 14:14:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'snehalniti_new'@'localhost' (using password: YES) in /home/snehalnitimain/public_html/mm/webinar/conn.php on line 2
+[08-Apr-2023 14:14:23 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/snehalnitimain/public_html/mm/webinar/conn.php on line 3
